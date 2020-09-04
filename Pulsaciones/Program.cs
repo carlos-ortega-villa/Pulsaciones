@@ -34,7 +34,7 @@ namespace Pulsaciones
             }
 
             Console.WriteLine($"|||Su nombre es: {Nombre} |||| Su edad es: {Edad} ||||| Su sexo es: {Sexo}|||");
-            Console.WriteLine($"El total de sus pulsaciones es: {TotalDePulsaciones} ");
+            Console.WriteLine($"|||El total de sus pulsaciones es: {TotalDePulsaciones}|||");
             Console.ReadKey();
         }
     }
